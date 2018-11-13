@@ -1,0 +1,56 @@
+﻿Personnages :
+
+Nom :
+Prénom :
+Âge :
+Poids :
+Taille :
+Religion :
+Alignements :
+
+Attributs :
+Santé :
+Défense :
+
+Énergie :
+Mana :
+
+Résistance physique :
+Résistance magique :
+
+Puissance physique :
+Puissance magique :
+
+Points d’actions :
+
+Caractéristiques :
+Force :
+Robustesse :
+
+Endurance :
+Métabolisme :
+
+Agilité :
+Dextérité :
+
+Esprit :
+Âme :
+
+Compétences :
+compétence x : [] () {}
+compétence x : [] () {}
+compétence x : [] () {}
+compétence x : [] () {}
+
+Techniques :
+technique x : [] () {}
+technique x : [] () {}
+technique x : [] () {}
+technique x : [] () {}
+
+Équipements :
+équipement x : portée / coût / résistance / durabilité / dmg / effets
+
+Barda :
+objet x : description / effets
+

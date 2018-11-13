@@ -1,0 +1,13 @@
+﻿Arme :
+
+Description : blablabla$
+Type :
+Portée :
+Coûts :
+Résistance :
+Durabilité :
+Dégâts :
+Effets :
+
+
+

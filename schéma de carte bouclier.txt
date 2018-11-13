@@ -1,0 +1,12 @@
+﻿Bouclier :
+
+Description : blablabla$
+Type :
+Portée :
+Coûts :
+Résistance :
+Durabilité :
+Effets :
+
+
+
